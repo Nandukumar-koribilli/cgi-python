@@ -1,4 +1,5 @@
 # cgi-python
+http://localhost/cgi-bin/login.py
 
 
 #
